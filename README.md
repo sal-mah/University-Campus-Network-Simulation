@@ -5,18 +5,28 @@
 
 This project was completed as part of our CCNA coursework and demonstrates the implementation of various networking concepts in a simulated enterprise network environment using Cisco Packet Tracer.
 
-## Features
+## Networking Concepts Implemented
 
+This project incorporates a wide range of CCNA networking concepts, including:
+
+* IPv4 Addressing and Subnetting
 * VLAN Configuration
+* Trunking (802.1Q)
 * Inter-VLAN Routing
-* OSPF Routing Protocol
+* Static Routing
+* OSPF Dynamic Routing
 * DHCP Configuration
 * NAT
-* EtherChannel
 * Spanning Tree Protocol (STP)
-* IP Addressing and Subnetting
+* EtherChannel
+* SSH Remote Management
+* Port Security
+* Switch and Router Configuration
 * Network Segmentation
-* Connectivity Verification and Troubleshooting
+* Connectivity Verification
+* Network Troubleshooting
+
+These technologies were integrated within a single network topology to simulate a realistic enterprise networking environment.
 
 ## Network Topology
 
@@ -43,6 +53,10 @@ Through this project, we gained practical experience in:
 * Establishing redundancy and efficient switching using EtherChannel and STP
 * Troubleshooting network connectivity issues
 
+## Acknowledgements
+
+This project was completed as part of our CCNA coursework and would not have been possible without the collaboration and support of everyone involved.
+
 ## Team Members
 
 * Mohamed Osama (@Hindam2)
@@ -52,16 +66,14 @@ Through this project, we gained practical experience in:
 * Amr Ahmed (@Amr-ghub)
 
 ## Course Staff
+Special thanks to:
+* Prof.Yasmin Hosny
+* TA.Khaled Ayman
+for their guidance, support, and valuable feedback throughout the project.
 
-Professor: Yasmin Hosny
-
-Teaching Assistant: Khaled Ayman
-
-## Repository Contents
-
-* `packet-tracer/` : Cisco Packet Tracer project file
-* `configs/` : Device configuration files
-* `topology.png` : Network topology diagram
+## Files
+- `CCNA_Campus_Project.pkt` — Cisco Packet Tracer project file.
+- `topology.png` — Network topology diagram.
 
 ## How to Run
 
