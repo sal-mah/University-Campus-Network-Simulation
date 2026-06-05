@@ -34,24 +34,27 @@ The network topology used in this project is shown below.
 
 ![Network Topology](topology.png)
 
-## Technologies Used
-
-* Cisco Packet Tracer
-* Cisco Routers
-* Cisco Switches
-* IPv4 Addressing
-* OSPF
-
 ## Learning Outcomes
 
-Through this project, we gained practical experience in:
+Through this project, we were able to:
 
-* Configuring and managing VLANs
-* Implementing dynamic routing using OSPF
-* Designing subnetting schemes
-* Configuring DHCP and NAT services
-* Establishing redundancy and efficient switching using EtherChannel and STP
-* Troubleshooting network connectivity issues
+* Design and implement a large-scale university campus network topology using Cisco Packet Tracer.
+* Apply hierarchical network design principles to connect multiple buildings, departments, and remote locations.
+* Plan and implement an efficient IPv4 addressing and subnetting scheme based on network requirements.
+* Configure VLANs and trunk links to achieve effective network segmentation and traffic isolation.
+* Implement inter-VLAN routing to enable communication between different network segments.
+* Configure and verify dynamic routing protocols including OSPF and EIGRP.
+* Establish route exchange and end-to-end connectivity across multiple routing domains.
+* Configure EtherChannel (LACP) to improve link redundancy, availability, and bandwidth utilization.
+* Deploy essential network services including DHCP, DNS, Web, Email, NTP, and Syslog servers.
+* Implement NAT to provide connectivity between internal networks and external networks.
+* Configure a Site-to-Site VPN to securely connect remote locations.
+* Design and integrate a branch office network within the campus infrastructure.
+* Apply Layer 2 technologies such as STP to prevent switching loops and improve network stability.
+* Monitor, verify, and troubleshoot network operation using Cisco IOS commands and diagnostic tools.
+* Analyze routing tables, VLAN databases, and network service configurations to ensure proper functionality.
+* Gain practical experience in network deployment, optimization, and troubleshooting within a complex enterprise-style environment.
+* Strengthen teamwork, collaboration, documentation, and problem-solving skills while working on a comprehensive networking project.
 
 ## Acknowledgements
 
@@ -74,13 +77,6 @@ for their guidance, support, and valuable feedback throughout the project.
 ## Files
 - `CCNA_Campus_Project.pkt` — Cisco Packet Tracer project file.
 - `topology.png` — Network topology diagram.
-
-## How to Run
-
-1. Download Cisco Packet Tracer.
-2. Open the `.pkt` file located in the `packet-tracer` folder.
-3. Verify device configurations and connectivity.
-4. Test routing and network services.
 
 ## License
 
